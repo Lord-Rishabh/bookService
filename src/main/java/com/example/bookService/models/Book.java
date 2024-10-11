@@ -1,10 +1,8 @@
 package com.example.bookService.models;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Data;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 @Entity
 @Data
